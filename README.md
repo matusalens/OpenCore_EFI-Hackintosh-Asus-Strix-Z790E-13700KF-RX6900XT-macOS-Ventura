@@ -11,3 +11,5 @@ Sound onboard (USB option on Ventura)
 https://github.com/acidanthera/OpenCorePkg/releases
 
 https://github.com/luchina-gabriel
+
+All itens working, usb mapped
