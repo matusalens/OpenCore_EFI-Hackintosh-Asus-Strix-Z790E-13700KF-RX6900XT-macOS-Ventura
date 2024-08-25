@@ -15,6 +15,7 @@ Audio: ALC4080
 
 SMBIOS: MacPro7,1
 
-macOS: Ventura 13.9
+macOS: Ventura 13.6.7
 
-OpenCore: 1.0
+OpenCore: 1.0.1
+
